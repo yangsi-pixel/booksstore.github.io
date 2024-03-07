@@ -1,0 +1,43 @@
+body {
+	background-image:url("BG1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.logo{
+	text-align: left;
+}
+.lg{
+	width: 50px;
+	height: 50px;
+}
+a {
+	padding-right: 5%;
+	font-size: larger;
+	color: darkcyan;
+text-decoration-color: transparent;
+}
+.bb{
+	text-align: right;
+	padding-right: 7%;
+}
+.cc{
+	font-size: xxx-large;
+	color: white;
+}
+.gg{
+	text-align: center;
+	padding-top: 10%;
+}
+marquee{
+	font-size: larger;
+	color: cyan;
+}
+label{
+	color: red;
+	font-size: larger;
+}
+#srh{
+	width: 300px;
+	height: 40px;
+	border-radius: 20px;
+}
